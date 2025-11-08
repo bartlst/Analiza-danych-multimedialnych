@@ -24,6 +24,11 @@ W ramach projektu planujemy:
 - Eksperymentalną klasyfikację wybranych zdjęć w celu określenia, czy przedstawiają one tory wyścigowe Formuły 1,
 - Porównanie i omówienie uzyskanych wyników.
 
+### Oczekiwany efekt
+
+<img width="599" height="308" alt="Zrzut ekranu 2025-11-8 o 12 32 08" src="https://github.com/user-attachments/assets/7a9a49e2-6ec9-473f-87ff-c16fc05d7a6d" />
+
+
 ### Autorzy
 - Bartłomiej Stefanko 106777
 - Mateusz Mierzwa 106850
