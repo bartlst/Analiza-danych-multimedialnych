@@ -18,7 +18,7 @@ Projekt koncentruje się na wstępnym przetwarzaniu i analizie wizualnych danych
 ### Zakres prac
 
 W ramach projektu planujemy:
-- Pobieranie zdjęć satelitarnych różnej jakości z ogólnodostępnych źródeł (np. [Massachusetts Roads Dataset](https://www.cs.toronto.edu/~vmnih/data/mass_roads/train/sat/index.html), Google Maps),
+- Pobieranie zdjęć satelitarnych różnej jakości z ogólnodostępnych źródeł (np. [Massachusetts Roads Dataset]([https://www.cs.toronto.edu/~vmnih/data/mass_roads/train/sat/index.html](https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset?resource=download)), Google Maps),
 - Wstępne przetwarzanie obrazów (np. zmiana rozdzielczości, filtracja, binaryzacja, segmentacja),
 - Analizę obrazów w celu wykrywania i wyróżniania struktur przypominających drogi z wykorzystaniem klasycznych metod przetwarzania obrazu,
 - Eksperymentalną klasyfikację wybranych zdjęć w celu określenia, czy przedstawiają one tory wyścigowe Formuły 1,
